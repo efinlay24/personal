@@ -66,6 +66,8 @@ Feels like two separate problems somehow related to graphics drivers or power:
 
 - Ran Windows memory check
   - No errors detected
+  - Also checked what memory slots the sticks were installed in on the motherboard compared to what [the manual recommended](https://www.msi.com/Motherboard/MPG-X570-GAMING-PLUS/support#manual)
+  - Already in the correct slots so didn't try swapping them out or anything
 
 - Disabled "restart on crash" Windows setting
   - Thought maybe blue screen with error info was being hidden by auto-restart
@@ -105,4 +107,5 @@ Feels like two separate problems somehow related to graphics drivers or power:
 - Swap out components to see if the problem still reoccurs
   - Memory check was fine but could try different modules?
   - Didn't try and alternate PSU or hard drives
+  - Could maybe try updating the motherboard BIOS?
   - By this point I was struggling for ideas... :slightly_smiling_face:
